@@ -18,6 +18,6 @@ fi
 
 echo "\$x = $x"
 echo $((100+$x))
-echo $[200+$x]
+echo $[202+$x]
 
 
