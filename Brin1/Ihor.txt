@@ -1,0 +1,22 @@
+#!/bin/bash
+
+
+x="1000"
+str1="1234"
+
+if [ $x \< $str1 ]
+  
+then
+   
+ echo "$x < 100"
+ 
+else
+   
+ echo "ELSE"
+
+fi
+
+
+echo "\$x = $x"
+
+
